@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 
-Contribute
+Please fork and continue
